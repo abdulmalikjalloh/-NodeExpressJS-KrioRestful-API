@@ -1,0 +1,29 @@
+{
+  "name": "kriojs",
+  "version": "1.0.0",
+  "description": "Restful Krio_EN-API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulmalikjalloh/-NodeExpressJS-KrioRestful-API.git"
+  },
+  "keywords": [
+    "krio",
+    "to",
+    "english"
+  ],
+  "author": "abdulmakjalloh.eth (I_AM_MJ)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulmalikjalloh/-NodeExpressJS-KrioRestful-API/issues"
+  },
+  "homepage": "https://github.com/abdulmalikjalloh/-NodeExpressJS-KrioRestful-API#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3"
+  }
+}
