@@ -1,3 +1,3 @@
 # -NodeExpressJS-KrioRestful-API
 
-- This Restful-API will provide translation from Krio to English, vice versa.
+- A Restful-API bringing you all the latest curated news from Mama Salone in one place.
